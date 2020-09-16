@@ -1,3 +1,3 @@
 # Hello world!
  First repository.
- Reposytory created in "curso em vídeo" class.
+ Reposytory created in a curso em vídeo's live.
